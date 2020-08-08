@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2681823-d379-427b-a9cf-45332eba2f59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="myblog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fheueTDVCZZdhkpG6lhoPr8YEA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzy.config" />
+      <recent name="com.lzy.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mydemo" />
+      <recent name="D:\mydemo\src\main\resources\templates" />
+      <recent name="D:\mydemo\src\main\java\com\lzy" />
+      <recent name="D:\mydemo\src\main\resources" />
+      <recent name="D:\mydemo\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzy.generator.CodeGenerator" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.DemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzy" />
+      <option name="MAIN_CLASS_NAME" value="com.lzy.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzy.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.DemoApplicationTests" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2681823-d379-427b-a9cf-45332eba2f59" name="Default Changelist" comment="" />
+      <created>1596674975839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596674975839</updated>
+      <workItem from="1596674980213" duration="14299000" />
+      <workItem from="1596759394071" duration="14543000" />
+      <workItem from="1596785796182" duration="2190000" />
+      <workItem from="1596787996021" duration="3369000" />
+      <workItem from="1596843250639" duration="4361000" />
+      <workItem from="1596847630725" duration="17374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596675644510">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1596675644510" />
+    <state x="574" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1596678314027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596678314027" />
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596857365248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1596857365248" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1596870678920">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596870678920" />
+    <state width="1478" height="165" key="GridCell.Tab.0.bottom" timestamp="1596871178819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596871178819" />
+    <state width="1478" height="165" key="GridCell.Tab.0.center" timestamp="1596871178818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596871178818" />
+    <state width="1478" height="165" key="GridCell.Tab.0.left" timestamp="1596871178818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596871178818" />
+    <state width="1478" height="165" key="GridCell.Tab.0.right" timestamp="1596871178818">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596871178818" />
+    <state width="1478" height="165" key="GridCell.Tab.1.bottom" timestamp="1596871178819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596871178819" />
+    <state width="1478" height="165" key="GridCell.Tab.1.center" timestamp="1596871178819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1596871178819" />
+    <state width="1478" height="165" key="GridCell.Tab.1.left" timestamp="1596871178819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1596871178819" />
+    <state width="1478" height="165" key="GridCell.Tab.1.right" timestamp="1596871178819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1478" height="165" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1596871178819" />
+    <state x="461" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1596759394023">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1596759394023" />
+    <state x="511" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1596867408653">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="49" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1596867408653" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1596782549724">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596782549724" />
+  </component>
+</project>
